@@ -1,6 +1,6 @@
 # MCP Server
 
-This project is an MCP (Multi-Agent Conversation Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/amazonaws.com/resourcegroupstaggingapi/2017-01-26/openapi.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
+This project is an MCP (Model Context Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/amazonaws.com/resourcegroupstaggingapi/2017-01-26/openapi.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
 
 ## Prerequisites
 
